@@ -8,3 +8,5 @@ O projeto foi desenvolvido utilizando linguagem de programação R, técnicas es
 - Linguagem de programação R, pacotes Dplyr e GGplot2
 - IDEs R Studio e Visual Code Studio
 - Algoritmos de classificação KNN, Naive Bayes, Random Forest, SVM com Kernel Radial, SVM com Kernel Sigma
+
+### O arquivo Relatorio_modelo_diabetes.pdf apresenta o código completo do projeto e o relatório detalhado. 
